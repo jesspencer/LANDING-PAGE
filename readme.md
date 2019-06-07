@@ -1,5 +1,5 @@
 # LANDING-PAGE
-Landing Page for H-Street Cupcakes. The form was created as part of the freecodecamp responsive web design course.
+Landing Page for Amazon Fashion. The form was created as part of the freecodecamp responsive web design course.
 The landing page form is a static form. Here is a pdf of how the form looks [landing-page]()
 
 ## RUNNING LANDING-PAGE APP:
